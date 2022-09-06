@@ -2,7 +2,7 @@
 Checking out my github profile, I see..
 anyways, Hi! My name is **Ethan**, my friends call me **Seth**. 
 Im a 14 year old student.  
-One of my favorite programming language is **rust**. 
+One of my favorite programming language is **Rust**. 
 I'm still learning it till now.   
 
 I also know Python, C/C++ and JavaScript / Typescript
