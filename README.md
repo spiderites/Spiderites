@@ -7,6 +7,8 @@ I'm still learning it till now.
 
 I also know Python, C/C++ and JavaScript / Typescript
 
+📧 spiderites@proton.me / spiderites@gmail.com
+
 # Cool Stuffs..
 [![Spiderite's Github Stats](https://github-readme-stats.vercel.app/api?username=Spiderites)](https://github.com/anuraghazra/github-readme-stats&theme=merko)
 [![Languages that I'm learning](https://github-readme-stats.vercel.app/api/top-langs/?username=Spiderites&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
