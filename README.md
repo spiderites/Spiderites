@@ -1,10 +1,11 @@
 # Hi, Im Spid. 
 Checking out my github profile, I see..
 anyways, Hi! My name is **Ethan**, my friends call me **Seth**. 
-Im a 14 year old student. One of my favorite programming language is **rust**. 
+Im a 14 year old student.  
+One of my favorite programming language is **rust**. 
 I'm still learning it till now.   
 
-I also know python, c/c++ and JavaScript / Typescript
+I also know Python, C/C++ and JavaScript / Typescript
 
 # Cool Stuffs..
 [![Spiderite's Github Stats](https://github-readme-stats.vercel.app/api?username=Spiderites)](https://github.com/anuraghazra/github-readme-stats&theme=merko)
